@@ -1,0 +1,11 @@
+# Vagrant
+.vagrant/
+redis/
+state/
+*.log
+
+# Emacs
+*~
+
+# Python
+*.pyc
