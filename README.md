@@ -13,7 +13,7 @@ This is a proof-of-concept. It is designed to go together with my write-up of al
 ### PostgreSQL
 
 + PostGreSQL Documentation Chapter 31 - Logical Replication: https://www.postgresql.org/docs/10/static/logical-replication.html
-+ Logical Replication Qucik Setup: https://www.postgresql.org/docs/10/static/logical-replication-quick-setup.html
++ Logical Replication Quick Setup: https://www.postgresql.org/docs/10/static/logical-replication-quick-setup.html
 + Logical Replication in PostgreSQL 10 by 2ndQuadrant: https://blog.2ndquadrant.com/logical-replication-postgresql-10/
 + Alter System Command: https://www.postgresql.org/docs/10/static/sql-altersystem.html
 + Alter Subscription: https://www.postgresql.org/docs/10/static/sql-altersubscription.html
